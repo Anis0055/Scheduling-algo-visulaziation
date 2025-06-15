@@ -10,3 +10,5 @@ Steps to use the website:
 4.	After adding all processes and selecting the scheduling algorithm click on execute button which will find turn around time, response time, completion time and waiting time for all processes. Also, line graphs for the response time, completion time and waiting will be shown with Gantt Chart.
 
 
+#Deployment of web-app at the vercel::
+https://scheduling-algo-visulaziation.vercel.app/
